@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: 'Inconsolata', monospace;
+}
+
+h2{
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+}
+
+a {
+    color: rgb(128, 128, 128);
+    text-decoration: none; /* no underline */
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+  }
